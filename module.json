@@ -1,0 +1,18 @@
+{
+  "id": "foundryvtt-never-pause",
+  "title": "foundryvtt-never-pause",
+  "description": "A simple module to automatically unpause a game upon any player logging in. Pause is beyond annoying.",
+  "authors": [
+    {
+      "name": "Havok"
+    }
+  ],
+  "scripts": [
+    "scripts/index.js"
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
