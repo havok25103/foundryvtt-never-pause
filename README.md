@@ -2,8 +2,6 @@
 
 This module automatically unpauses foundry upon the game world being made ready.
 
-**This module is intended for personal use only. Depend on this at your own risk.**
-
 ## Why do this?
 
 - I trust my players to not mess with the scenes when not in use.
